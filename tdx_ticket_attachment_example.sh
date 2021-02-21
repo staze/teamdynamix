@@ -5,7 +5,7 @@ TDXPassword=''
 TDXAuthUri='https://university.teamdynamix.com/TDWebApi/api/auth/'
 
 #Ticket ID to post the file to
-TDX_TICKET_ID="111111111"
+TDX_TICKET_ID="11111111"
 
 #File to upload to the ticket
 FILE="/var/log/install.log"
